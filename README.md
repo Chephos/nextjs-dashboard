@@ -6,4 +6,6 @@ Took this course for stigdata interview
 
 Added this line to test qa agent
 
+Added this line to test listening for deployment event
+
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
